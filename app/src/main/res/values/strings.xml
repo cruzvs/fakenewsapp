@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fake News</string>
+    <string name="verificar">Verificar</string>
+    <string name="error_api">Houve um erro.</string>
+    <string name="text">text</string>
+    <string name="image_from_news">Image from news.</string>
+</resources>

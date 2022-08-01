@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991443484691",
+    "project_id": "fake-news-60f1e",
+    "storage_bucket": "fake-news-60f1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991443484691:android:bc82d952ca40e72034bfe6",
+        "android_client_info": {
+          "package_name": "com.cruz.fakenews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991443484691-pc5apjun17oo972llv8svq71a8df464i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQlp71ffsRcQWng3hHbFdwlmEuKfPJTJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991443484691-pc5apjun17oo972llv8svq71a8df464i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
